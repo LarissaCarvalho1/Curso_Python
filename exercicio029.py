@@ -6,7 +6,7 @@ foi multado.
 
 A multa vai custar R$ 7,00 por km acima do limite.
 '''
-velocidade_carro = int(input('Velocidade atual do carro (Km): '))
+velocidade_carro = float(input('Velocidade atual do carro (Km): '))
 velocidade_maxima_via = 80
 km_acima_limite = 0
 multa_km_acima_limite = 7
